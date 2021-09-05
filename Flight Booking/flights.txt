@@ -1,0 +1,18 @@
+DA163
+New York
+15 45
+Flight815
+Hawaii
+6 0
+DA735
+New York
+14 30
+UA157
+Detroit
+4 0
+UA112
+Los Angeles
+12 30
+Ajira316
+Hawaii
+7 20
